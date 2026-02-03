@@ -1,0 +1,69 @@
+{
+  "name": "@mertcreates/eslint-plugin-next-pages-router",
+  "version": "1.0.0",
+  "description": "ESLint rules to validate Next.js Pages Router route comparisons and navigation targets against your pages manifest.",
+  "author": "Mert Ercan <me@mertercan.com> (https://mertercan.com)",
+  "type": "commonjs",
+  "main": "index.js",
+  "exports": {
+    ".": "./index.js"
+  },
+  "files": [
+    "index.js",
+    "rules/",
+    "lib/",
+    "README.md",
+    "LICENSE"
+  ],
+  "keywords": [
+    "eslint",
+    "eslint-plugin",
+    "next",
+    "nextjs",
+    "next-pages",
+    "next-pages-router",
+    "pages-router",
+    "router",
+    "routing",
+    "pages"
+  ],
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mertcreates/eslint-plugin-next-pages-router.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mertcreates/eslint-plugin-next-pages-router/issues"
+  },
+  "homepage": "https://github.com/mertcreates/eslint-plugin-next-pages-router#readme",
+  "sideEffects": false,
+  "funding": {
+    "type": "github",
+    "url": "https://github.com/sponsors/mertcreates"
+  },
+  "engines": {
+    "node": ">=16"
+  },
+  "peerDependencies": {
+    "eslint": "^8.0.0 || ^9.0.0",
+    "next": ">=10"
+  },
+  "peerDependenciesMeta": {
+    "next": {
+      "optional": true
+    }
+  },
+  "devDependencies": {
+    "c8": "^9.1.0",
+    "eslint": "^9.0.0",
+    "mocha": "^10.0.0"
+  },
+  "scripts": {
+    "test": "mocha \"tests/rules/**/*.test.js\"",
+    "test:coverage": "c8 --reporter=text --reporter=html mocha \"tests/rules/**/*.test.js\"",
+    "bench": "node scripts/benchmark.js"
+  }
+}
