@@ -70,6 +70,7 @@ The recommended config enables both rules.
 ### `@mertcreates/next-pages-router/no-invalid-route-compare`
 
 Validates that:
+
 - `router.route` and `router.pathname` are compared against **route patterns**
   that exist in `pages/` (e.g. `'/posts/[id]'`).
 - `router.asPath` is compared against **concrete URLs** (e.g. `'/posts/123'`)
@@ -96,6 +97,7 @@ router.asPath === '/posts/123?sort=asc'
 ### `@mertcreates/next-pages-router/no-invalid-router-navigation`
 
 Validates `router.push` and `router.replace` targets:
+
 - String URLs must be **concrete** and match a pages route.
 - URL objects may use a **route pattern** in `pathname` with `query`, or a
   **concrete** `pathname` that matches a pages route.
@@ -194,6 +196,7 @@ Option reference:
 Benchmarks here measure **rule overhead** (not total ESLint time).
 
 Latest run (mixed mode, 12k statements across 80 files, 5-run average):
+
 - Real project pages (46 routes): ~2–3 ms per run
 - Synthetic stress (6000 routes): ~2–3 ms per run
 

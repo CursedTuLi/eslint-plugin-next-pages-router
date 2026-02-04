@@ -79,6 +79,7 @@ Commands used:
 ```bash
 node scripts/benchmark.js --routes 3000 --statements 12000 --iterations 50 --warmup 2 --suggest true --mode files --files 80 --rules mixed
 node scripts/benchmark.js --pages-dir "/absolute/path/to/pages" --statements 12000 --iterations 50 --warmup 2 --suggest true --mode files --files 80 --rules mixed
+```
 
 Run 5x and average:
 
@@ -87,7 +88,6 @@ node -e "const {execSync}=require('child_process');const runs=5;const cmd='node 
 ```
 
 Results vary by machine and workload. Compare relative changes, not absolute numbers.
-```
 
 ## Notes
 
